@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.sacco_app">
    <application
-        android:label="sacco_app"
-        android:icon="@mipmap/ic_launcher">
+        android:label="Anchor Sacco"
+        android:icon="@mipmap/sacco_logo">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Anchor Sacco',
       theme: ThemeData(
-        primarySwatch: Colors.lightGreen
+        primaryColor: Colors.teal,
       ),
       home: MyHomePage(),
     );
